@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qUVXzFerKlMiMI33m8790U6GXw3FznpyBcUh/nZkEKz+E2HwxGETRywyDFYKY2gNZWx3v8PeNtAy0uDnM/Ob2A==",
+  "dgSpecHash": "xSxARpi0DlQtx/qshePcCPrIkZUwKz4khq7DGoswfWAyBX0OBhpcQ7oaI4rjudM4ywNYamELB7jRXWxNNSyrzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PABLO-LAP-LENOVO\\Documents\\gti programing projects\\Dot net\\Guia Completa Net Core MVC\\Sistema-Inventarios-Curso\\SistemaInventarios\\SistemaInventarios.Models\\SistemaInventarios.Models.csproj",
+  "projectFilePath": "C:\\Users\\PABLO-LAP-LENOVO\\Documents\\gti programing projects\\Dot net\\Sistema-Inventarios-Curso\\SistemaInventarios\\SistemaInventarios.Models\\SistemaInventarios.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PABLO-LAP-LENOVO\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\PABLO-LAP-LENOVO\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.0.nupkg.sha512",

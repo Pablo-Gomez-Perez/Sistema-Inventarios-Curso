@@ -12,15 +12,15 @@ using SistemaInventarios.DataAccess.Data;
 namespace SistemaInventarios.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240312231741_AgregarMigracionInicial")]
-    partial class AgregarMigracionInicial
+    [Migration("20240512150601_AgregarMigracionIdentidad")]
+    partial class AgregarMigracionIdentidad
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.0")
+                .HasAnnotation("ProductVersion", "8.0.4")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);

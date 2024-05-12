@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qIbkiXHD6pEGNHWhEOTVCDyw0zpYdsArjvnKKockrTx269LTJeBaHdKImmx5+IncN/8s3bbq/KD5IG6ue4j9Bg==",
+  "dgSpecHash": "GjD7aQHprGY91GdlLS5gnyspT2jbIJW9viM7oq9tkLEnFK0dq1aoDdq6Qf9N0xJySrbU8SLvlYhazpBYv5egtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PABLO-LAP-LENOVO\\Documents\\gti programing projects\\Dot net\\Guia Completa Net Core MVC\\Sistema-Inventarios-Curso\\SistemaInventarios\\SistemaInventarios\\SistemaInventarios.csproj",
+  "projectFilePath": "C:\\Users\\PABLO-LAP-LENOVO\\Documents\\gti programing projects\\Dot net\\Sistema-Inventarios-Curso\\SistemaInventarios\\SistemaInventarios\\SistemaInventarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PABLO-LAP-LENOVO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PABLO-LAP-LENOVO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
