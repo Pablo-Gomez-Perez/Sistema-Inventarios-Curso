@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SistemaInventarios.Utils.Classes
 {
-    internal static class DS
+    public static class DS
     {
     }
 }
